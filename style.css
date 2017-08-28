@@ -105,6 +105,9 @@ border-bottom: 1px solid rgb(209, 209, 209);
 #menuprincipal ul a:hover,
 #menuprincipal ul li.active a {
   color: #131314; }
+.bg-primary{
+  background-color: #fff !important;
+}
 
 /*------------------ Estilos slider ------------*/
 .slider {
@@ -113,7 +116,7 @@ border-bottom: 1px solid rgb(209, 209, 209);
 /*------------------ Estilos Destaques ------------*/
 .title{
 
-  background-image: url(../imagens/degrade.png); 
+  background-image: url(http://www.saocarlosmudancas.com.br/wp-content/uploads/2016/10/degrade.jpg); 
   
   border-bottom:2px solid #1F2123;
   height: 80px;
@@ -125,7 +128,7 @@ border-bottom: 1px solid rgb(209, 209, 209);
 }
 .p-sobre{
   font-size: 18px;
-  color: #333;
+  color: #333 !important;
 }
 
 .fa {
@@ -224,3 +227,124 @@ border-bottom: 1px solid rgb(209, 209, 209);
   opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */
+
+.single{padding: 100px 0;}
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+a img.alignright {float:right; margin:0 0 1em 1em}
+a img.alignleft {float:left; margin:0 1em 1em 0}
+a img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.conteudo-single p{color: #333333;
+font-size: 1.26em;
+letter-spacing: -0.02em;
+line-height: 1.45em;
+padding-bottom: 1.5em;}
+.conteudo-single img{
+  display: block;max-width: 100%;height: auto;}
+.conteudo-single h1{
+  color: #333;
+font-size: 2.16em;
+
+font-weight: bold;
+letter-spacing: -0.06em;
+}
+
+
+.conteudo-single h2{color: #929292;
+font-size: 2.5em;
+font-weight: normal;
+letter-spacing: -0.01em;
+line-height: 1.2em;
+padding-top: .3em;}
+.conteudo-single h3{font-weight: 700;color: #518C55;}
+.conteudo-single h4{color: #900;}
+.conteudo-single h5{color: #900;}
+.conteudo-single h6{color: #900;}
+.conteudo-single ul{list-style: none;margin: 0;padding: 0;}
+.conteudo-single ul li{padding: 0 0;text-transform: uppercase;color: #358;}
+.conteudo-single ol{margin: 0;padding: 14px;}
+.conteudo-single ol li{padding: 10px 0;text-transform: uppercase;color: #000;}
+.conteudo-single blockquote{background: #eee;padding: 20px;border-radius: 6px;color: #fff;border-left:4px solid #900;}
+
+.sidebar{}
+.widget{list-style: none;}
+.widget h2{
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 26px;
+  color: #333333;
+  border-bottom: 2px solid #333;
+}
+
+.widget p {color: #111;font-size: 15px;}
+
+
+.rpwwt-widget ul li {
+       overflow: hidden;
+    margin: 0 0 .5em;
+    border-bottom: 1px solid #D2CECE;
+}
+
+.textwidget{
+    margin-top: 15px;
+}
+.textwidget p{
+  color: #fff;
+
+}
+.compartilhamento{
+  display: flex;
+  justify-content:flex-end;
+}
+
+.footer-1{
+  background:#2c3e50;
+}
+.title-box{
+  color: #fff;
+}
+
+.list-unstyled ul{
+  list-style: none;
+}
+.list-unstyled ul li a{
+ color: #fff;
+}
+
+
+
+.page{padding: 100px 0;}
+.conteudo-page p{font-size: 16px;color:#333333;}
+.conteudo-page img{display: block;max-width: 100%;height: auto;}
+.conteudo-page h1{font-weight: 700;color:#4682B4; border-bottom:2px solid #03B0EF; text-transform: uppercase;padding: 8px;}
+.conteudo-page h2{font-weight: 700;color: #333333;}
+.conteudo-page h3{font-weight: 700;color: #333333;}
+.conteudo-page h4{color:#333333;}
+.conteudo-page h5{color:#333333;}
+.conteudo-page h6{color:#333333;}
+.conteudo-page ul{list-style: none;margin: 0;padding: 0;}
+.conteudo-page ul li{padding: 10px 0;text-transform: uppercase;color: #333333;}
+.conteudo-page ol{margin: 0;padding: 14px;}
+.conteudo-page ol li{padding: 10px 0;text-transform: uppercase;color: #333333;}
+.conteudo-page blockquote{background: #333333;padding: 20px;border-radius: 6px;color: #fff;border-left:4px solid #900;}
+
+.conteudo-categoria{
+    padding: 80px 0;
+}
+.conteudo-categoria h4{margin-bottom: 10px;padding: 30px;text-transform: uppercase;color:#4682B4;}
+
+.media-body p{
+  color: #000;
+}
+
+
+.media-left a img{width: 150px;height: 100px;}
+.comentario .title h1{
+  font-size: 15px;
+}
+
+.enquete ul{
+  list-style: none;
+  color:#fff;
+  {
